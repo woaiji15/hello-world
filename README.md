@@ -4,3 +4,5 @@ my first test repository
 
 
 在readme中新增一行
+
+更改一行来测试 git for windows
