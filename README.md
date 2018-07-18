@@ -8,4 +8,38 @@ my first test repository
 更改一行来测试 git for windows
 
 
+test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:wq!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:wq!
+wq!
+wq
 # add by dlx
